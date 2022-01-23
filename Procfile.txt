@@ -1,2 +1,2 @@
-web: cd home
+web: cd client
 web: npm run start
